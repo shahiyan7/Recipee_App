@@ -1,0 +1,110 @@
+{
+  "foods":[
+    {
+      "name": "Pasta Carbonara",
+      "description": "Classic Italian pasta dish made with eggs, cheese, bacon, and black pepper.",
+      "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?cs=srgb&dl=pexels-engin-akyurt-1437267.jpg&fm=jpg",
+      "ingredients": [
+        "200g spaghetti",
+        "2 large eggs",
+        "50g grated Pecorino Romano cheese",
+        "50g grated Parmesan cheese",
+        "100g pancetta or guanciale, diced",
+        "2 cloves garlic, minced",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Cook the spaghetti in boiling salted water until al dente.",
+        "In a bowl, whisk the eggs and grated cheese together.",
+        "In a large pan, sauté the diced pancetta or guanciale until crispy. Add minced garlic and cook briefly.",
+        "Drain the cooked pasta and add it to the pan with the pancetta. Toss to coat the pasta in the fat.",
+        "Remove the pan from the heat and quickly pour in the egg and cheese mixture, stirring continuously to create a creamy sauce.",
+        "Season with salt and black pepper to taste.",
+        "Serve immediately with extra grated cheese on top."
+      ]
+    },
+    {
+      "name": "Chicken Curry",
+      "description": "A flavorful and aromatic Indian chicken curry.",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Curry-recipe.jpg",
+      "ingredients": [
+        "500g chicken, cut into pieces",
+        "1 large onion, finely chopped",
+        "2 tomatoes, chopped",
+        "3 cloves garlic, minced",
+        "1-inch piece of ginger, grated",
+        "2 tablespoons curry powder",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1/2 teaspoon chili powder (adjust to taste)",
+        "400ml coconut milk",
+        "2 tablespoons vegetable oil",
+        "Fresh cilantro for garnish",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a large pot, heat vegetable oil and sauté chopped onions until soft and translucent.",
+        "Add minced garlic and grated ginger, and cook for a minute until fragrant.",
+        "Add curry powder, turmeric, cumin, coriander, and chili powder. Stir well to coat the onions and spices.",
+        "Add the chopped tomatoes and cook until they turn soft and mushy.",
+        "Add the chicken pieces and cook until they are browned on all sides.",
+        "Pour in the coconut milk and bring the mixture to a boil.",
+        "Reduce the heat, cover the pot, and simmer for about 30 minutes until the chicken is cooked through and tender.",
+        "Adjust salt and spices according to taste.",
+        "Garnish with fresh cilantro and serve hot with steamed rice or naan bread."
+      ]
+    },
+    {
+      "name": "Greek Salad",
+      "description": "A refreshing and healthy Greek salad with tomatoes, cucumbers, olives, and feta cheese.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/10/7/0/FNK_Greek-Salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1383814482359.jpeg",
+      "ingredients": [
+        "2 large tomatoes, chopped",
+        "1 cucumber, diced",
+        "1/2 red onion, thinly sliced",
+        "1/2 cup Kalamata olives",
+        "100g feta cheese, crumbled",
+        "2 tablespoons extra virgin olive oil",
+        "1 tablespoon red wine vinegar",
+        "1 teaspoon dried oregano",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "In a large bowl, combine chopped tomatoes, diced cucumbers, sliced red onion, and Kalamata olives.",
+        "In a separate small bowl, whisk together extra virgin olive oil, red wine vinegar, dried oregano, salt, and black pepper to make the dressing.",
+        "Pour the dressing over the salad and toss well to combine.",
+        "Add crumbled feta cheese on top and gently mix.",
+        "Serve chilled as a refreshing side dish or light meal."
+      ]
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "description": "Classic chocolate chip cookies that are soft and chewy on the inside and crispy on the outside.",
+      "image": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-threeByTwoMediumAt2X.jpg",
+      "ingredients": [
+        "1 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup packed brown sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 cups semisweet chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+        "In a large mixing bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy.",
+        "Add the eggs one at a time, beating well after each addition. Stir in the vanilla extract.",
+        "In a separate bowl, whisk together the all-purpose flour, baking soda, and salt.",
+        "Gradually add the dry ingredients to the butter mixture, mixing until just combined.",
+        "Stir in the semisweet chocolate chips.",
+        "Drop spoonfuls of cookie dough onto the prepared baking sheet, leaving enough space between each cookie.",
+        "Bake for 9-11 minutes or until the edges are golden brown.",
+        "Remove from the oven and let the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely."
+      ]
+    }
+   
+  ]
+}
